@@ -7,8 +7,6 @@
 #include<stdexcept>
 using namespace std;
 
-//The following program is a virtual pet simulator
-
 int generate_random(int a,int b)
 {
     int temp=rand();
